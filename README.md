@@ -43,7 +43,7 @@ torchtext== 0.11+ <br>
 **1.train**<br/>
 Just execute "En_De_Ch_Att_Seq2Seq.py"<br>
 **2.test**<br>
-run the file "En_De_Ch_Att_Seq2Seq.py"<br>
+Run the file "En_De_Ch_Att_Seq2Seq.py"<br>
 ***
 #### Results
 1. accuracy
