@@ -2,12 +2,12 @@
 
 ## attention-seq2seq
 
-### Requirements
+#### Requirements
 python3.8<br>
 pytorch==1.7.1 <br>
 matplotlib==3.2.2
 ***
-### Use
+#### Use
 **1.train**<br/>
 Just execute "trainscipt.py"<br>
 **2.test**<br>
@@ -20,7 +20,7 @@ evaluateAndShowAttention("je ne crains pas de mourir .")
 evaluateAndShowAttention("c est un jeune directeur plein de talent .")
 ```
 ***
-### Results
+#### Results
 1. train loss <br>
 ![img.png](results/img.png)
 2. attention matrix <br>
