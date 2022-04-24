@@ -1,6 +1,6 @@
 # midproject
 
-## attention-seq2seq
+## 1. Attention-seq2seq
 
 #### Requirements
 python3.8<br>
@@ -20,6 +20,12 @@ evaluateAndShowAttention("je ne crains pas de mourir .")
 evaluateAndShowAttention("c est un jeune directeur plein de talent .")
 ```
 ***
+#### Models
+saved in 'models' folder as .pkl file
+***
+#### Data
+'data' folder
+***
 #### Results
 1. train loss <br>
 ![img.png](results/img.png)
@@ -27,7 +33,7 @@ evaluateAndShowAttention("c est un jeune directeur plein de talent .")
 ![img_1.png](results/img_1.png)![img_2.png](results/img_2.png)
 
 
-## Transformer
+## 2. Transformer
 #### Requirements
 python3.8+<br>
 pytorch==1.10+ <br>
@@ -45,6 +51,6 @@ run the file "En_De_Ch_Att_Seq2Seq.py"<br>
 3. attention visualization
 4. LR 
 
-## Communication Channel Model
+## 3. Communication Channel Model
 #### Use
 see github: https://github.com/yihanjiang/Sequential-RNN-Decoder
