@@ -25,3 +25,26 @@ evaluateAndShowAttention("c est un jeune directeur plein de talent .")
 ![img.png](results/img.png)
 2. attention matrix <br>
 ![img_1.png](results/img_1.png)![img_2.png](results/img_2.png)
+
+
+## Transformer
+#### Requirements
+python3.8+<br>
+pytorch==1.10+ <br>
+torchtext== 0.11+ <br>
+***
+#### Use
+**1.train**<br/>
+Just execute "En_De_Ch_Att_Seq2Seq.py"<br>
+**2.test**<br>
+run the file "En_De_Ch_Att_Seq2Seq.py"<br>
+***
+#### Results
+1. accuracy
+2. loss
+3. attention visualization
+4. LR 
+
+## Communication Channel Model
+#### Use
+see github: 
