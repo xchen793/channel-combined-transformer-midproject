@@ -1,13 +1,13 @@
 # midproject
 
-# attention-seq2seq
+## attention-seq2seq
 
 ### Requirements
 python3.8<br>
 pytorch==1.7.1 <br>
 matplotlib==3.2.2
 ***
-### how to use?
+### Use
 **1.train**<br/>
 Just execute "trainscipt.py"<br>
 **2.test**<br>
