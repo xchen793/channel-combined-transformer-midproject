@@ -47,4 +47,4 @@ run the file "En_De_Ch_Att_Seq2Seq.py"<br>
 
 ## Communication Channel Model
 #### Use
-see github: 
+see github: https://github.com/yihanjiang/Sequential-RNN-Decoder
