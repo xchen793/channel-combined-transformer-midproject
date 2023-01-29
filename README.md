@@ -1,5 +1,8 @@
 # midproject
 
+## Intro
+In this midproject report, we present our project progress based on proposed schedule. We went through several literature review regarding the Encoder-(Channel)-Decoder Mechanism, the neural/statistical machine translation, and some channel techniques such as additive white Gaussian noise channel(AWGN), binary symmetric channel(BSC) and binary erasure channel(BEC). For the code implementation, we not only reproduced and evaluated Turbo decoding results from the paper Communication Algorithms via Deep Learning, but also worked on our own model building. 
+
 ## 1. Attention-seq2seq
 
 #### Requirements
